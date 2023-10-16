@@ -1,0 +1,42 @@
+[
+  {
+    "host": "raw.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "dsm01pap006.storage.live.com",
+    "port": 443
+  },
+  {
+    "host": "api.github.com",
+    "port": 443
+  },
+  {
+    "host": "down.safe.wegamex.com.hk",
+    "port": 443
+  },
+  {
+    "host": "avatars.githubusercontent.com",
+    "port": 443
+  },
+  {
+    "host": "collector.github.com",
+    "port": 443
+  },
+  {
+    "host": "alive.github.com",
+    "port": 443
+  },
+  {
+    "host": "login.live.com",
+    "port": 443
+  },
+  {
+    "host": "github.com",
+    "port": 443
+  },
+  {
+    "host": "github.githubassets.com",
+    "port": 443
+  }
+]
